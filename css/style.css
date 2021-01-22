@@ -188,7 +188,7 @@ nav {
   color: white;
   height: 500px;
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/img/counter-bg.jpg); /*darken the background image*/
+    url(../img/counter-bg.jpg); /*darken the background image*/
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 200% !important;
